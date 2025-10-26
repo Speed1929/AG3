@@ -106,7 +106,9 @@ Command	Action
 “Play music”	Plays a random song from your music folder
 “What’s the time now?”	Tells current time
 “Open VS Code”	Opens Visual Studio Code
-“What’s my IP address?”	Reads out your public IP
+“IP address?”	Reads out your public IP
+"shut up" it will stop loop
+"search" with using search video you can search anything on google with this
 “Bye” or “Just shut up”	Stops the assistant
 💻 Project Structure
 AG3/
